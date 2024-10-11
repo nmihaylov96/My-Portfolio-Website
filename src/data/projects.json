@@ -1,0 +1,35 @@
+[
+    {
+      "title": "Anti-Spam System",
+      "imageSrc": "projects/anti_spam.png",
+      "description": "Developed an anti-spam system using machine learning techniques for spam detection. Implemented classification models with natural language processing to filter out spam messages, trained on various datasets.",
+      "skills": ["Python", "PyTorch"],
+      "demo": "N/A",
+      "source": "https://www.github.com/nmihaylov96"
+    },
+    {
+      "title": "Multiplayer Game",
+      "imageSrc": "projects/multiplayer_game.png",
+      "description": "Created a real-time multiplayer game allowing up to 4 players to compete simultaneously. Integrated Photon Networking for seamless player interaction with engaging gameplay mechanics.",
+      "skills": ["Unity3D", "C#", "Photon Multiplayer"],
+      "demo": "N/A",
+      "source": "https://www.github.com/nmihaylov96"
+    },
+    {
+      "title": "Medical Records Management System",
+      "imageSrc": "projects/medical_records.png",
+      "description": "Developed a Java-based system for managing patient medical records. Implemented a secure database architecture ensuring GDPR compliance.",
+      "skills": ["Java", "MySQL"],
+      "demo": "N/A",
+      "source": "https://www.github.com/nmihaylov96"
+    },
+    {
+      "title": "Company Website for NetCompany",
+      "imageSrc": "projects/company_website.png",
+      "description": "Built a responsive company website, showcasing services, team, and projects with third-party API integration for enhanced user experience.",
+      "skills": ["React.js"],
+      "demo": "N/A",
+      "source": "https://www.github.com/nmihaylov96"
+    }
+  ]
+  
